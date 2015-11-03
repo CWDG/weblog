@@ -11,7 +11,7 @@ This is an otherwise empty repository. It is up to you to create the entire appl
 These commands will come in handy. They are not described here. Figuring out what they do should be an exercise for you. Anything in `<>` should not be typed literally, you should interpolate what should go there.
 
 - `rails new <app name here>`
-- `rails generate scaffold <model name here> <attribute 1>:<attribute 1's type> <attribute2>:...`
+- `rails generate scaffold <model name here (plural!)> <attribute 1>:<attribute 1's type> <attribute2>:...`
 - `rake db:setup`
 - `rake db:migrate`
 - `rails server`
